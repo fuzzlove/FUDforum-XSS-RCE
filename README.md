@@ -1,15 +1,15 @@
 # FUDforum-XSS-RCE
 FUDForum 3.0.9 - XSS / Remote Code Execution
 
-Date                  : 10/26/19
-Exploit Author        : liquidsky (JMcPeters)
-Vulnerable Software   : FUDForum 3.0.9
-Vendor Homepage       : http:fudforum.org/forum/
-Version               : 3.0.9
-Software Link         : https:sourceforge.net/projects/fudforum/
-Tested On             : Windows / mysql / apache
-Author Site           : http:incidentsecurity.com | demo: https:youtu.be/0gsJQ82TXw4
-CVE                   : TBD
+- Date                  : 10/26/19
+- Exploit Author        : liquidsky (JMcPeters)
+- Vulnerable Software   : FUDForum 3.0.9
+- Vendor Homepage       : http:fudforum.org/forum/
+- Version               : 3.0.9
+- Software Link         : https:sourceforge.net/projects/fudforum/
+- Tested On             : Windows / mysql / apache
+- Author Site           : http:incidentsecurity.com | demo: https:youtu.be/0gsJQ82TXw4
+- CVE                   : TBD
 
 Greetz : wetw0rk, Fr13ndz, offsec
 
