@@ -9,7 +9,7 @@
 // Author Site           : http://incidentsecurity.com | demo: https://youtu.be/0gsJQ82TXw4
 // CVE                   : TBD
 //
-// Greetz : wetw0rk, Fr13ndz, offsec
+// Greetz : wetw0rk, Fr13ndz, offsec =)
 //
 // Description: FUDForum 3.0.9 is vulnerable to XSS via the user-agent request header.
 // This may result in remote code execution. An attacker can use a user account to fully compromise the system using a GET request.
