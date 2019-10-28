@@ -1,5 +1,5 @@
 # FUDforum-XSS-RCE
-FUDForum 3.0.9 - XSS / Remote Code Execution
+FUDForum 3.0.9 - Stored XSS / Remote Code Execution
 
 - Date                  : 10/26/19
 - Exploit Author        : liquidsky (JMcPeters)
@@ -13,7 +13,7 @@ FUDForum 3.0.9 - XSS / Remote Code Execution
 
 Greetz : wetw0rk, Fr13ndz, offsec
 
-Description: FUDForum 3.0.9 is vulnerable to XSS via the user-agent request header.
+Description: FUDForum 3.0.9 is vulnerable to Stored XSS via the user-agent request header.
 This may result in remote code execution. An attacker can use a user account to fully compromise the system using a GET request.
 When the admin visits the user information under "User Manager" in the control panel the payload will execute.
 This will allow for PHP files to be written to the web root, and for code to execute on the remote server. 
