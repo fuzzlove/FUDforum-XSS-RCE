@@ -1,5 +1,5 @@
 # FUDforum-XSS-RCE
-FUDForum 3.0.9 - Admin Panel Stored XSS / Remote Code Execution
+FUDForum 3.0.9 - Admin Panel - Stored XSS / Remote Code Execution
 
 - Date                  : 10/26/19
 - Exploit Author        : liquidsky (JMcPeters)
