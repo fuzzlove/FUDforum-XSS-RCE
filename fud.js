@@ -7,7 +7,7 @@
 // Software Link         : https://sourceforge.net/projects/fudforum/
 // Tested On             : Windows / mysql / apache
 // Author Site           : http://incidentsecurity.com | demo: https://youtu.be/0gsJQ82TXw4
-// CVE                   : TBD
+// CVE                   : CVE-2019-18839
 //
 // Greetz : wetw0rk, Fr13ndz, offsec =)
 //
