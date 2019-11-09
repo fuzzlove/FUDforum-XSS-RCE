@@ -1,4 +1,4 @@
-# FUDForum 3.0.9 - Stored XSS / Remote Code Execution [via Forum]
+# FUDForum 3.0.9 - Stored XSS / Remote Code Execution [via username]
 
 - Date                  : 11/8/19
 - Exploit Author        : liquidsky (JMcPeters)
