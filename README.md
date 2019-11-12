@@ -1,5 +1,5 @@
 # FUDforum-XSS-RCE
-FUDForum 3.0.9 - XSS / Remote Code Execution
+FUDForum 3.0.9 - XSS / Remote Code Execution (CVE-2019-18873, CVE-2019-18839)
 
 Multiple Stored XSS vulnerabilities have been found in FUDforum 3.0.9 that can result in remote code execution.
 
