@@ -8,7 +8,7 @@
 // Tested On             : Windows / mysql / apache
 // Author Site           : https://github.com/fuzzlove/FUDforum-XSS-RCE
 // Demo                  : https://youtu.be/0gsJQ82TXw4 | https://youtu.be/fR8hVK1paks
-// CVE                   : CVE-2019-18839
+// CVE                   : CVE-2019-18839, CVE-2019-18873
 //
 // Greetz : wetw0rk, Fr13ndz, offsec =)
 //
