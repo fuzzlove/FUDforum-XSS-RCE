@@ -2,8 +2,9 @@
 // Date                  : 10/26/19
 // Exploit Author        : liquidsky (JMcPeters)
 // Vulnerable Software   : FUDForum 3.0.9
+// Vendor Homepage       : https://sourceforge.net/projects/fudforum/
 // Version               : 3.0.9
-// Software Link         : https://sourceforge.net/projects/fudforum/
+// Software Link         : https://sourceforge.net/projects/fudforum/files/FUDforum_3.0.9.zip/download
 // Tested On             : Windows / mysql / apache
 // Author Site           : https://github.com/fuzzlove/FUDforum-XSS-RCE
 // Demo                  : https://youtu.be/0gsJQ82TXw4 | https://youtu.be/fR8hVK1paks
