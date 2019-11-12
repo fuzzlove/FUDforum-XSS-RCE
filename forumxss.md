@@ -4,7 +4,7 @@
 - Exploit Author        : liquidsky (JMcPeters)
 - Vulnerable Software   : FUDForum 3.0.9
 - Version               : 3.0.9
-- Software Link         : https://sourceforge.net/projects/fudforum/
+- Software Link         : https://sourceforge.net/projects/fudforum/files/FUDforum_3.0.9.zip/download
 - Tested On             : Windows / mysql / apache
 - Author Site           : http://incidentsecurity.com | demo: https://youtu.be/fR8hVK1paks
 - CVE                   : CVE-2019-18839
