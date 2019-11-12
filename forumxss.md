@@ -3,7 +3,6 @@
 - Date                  : 11/8/19
 - Exploit Author        : liquidsky (JMcPeters)
 - Vulnerable Software   : FUDForum 3.0.9
-- Vendor Homepage       : http://fudforum.org/forum/
 - Version               : 3.0.9
 - Software Link         : https://sourceforge.net/projects/fudforum/
 - Tested On             : Windows / mysql / apache
